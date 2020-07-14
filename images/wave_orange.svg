@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="385px" height="142px" viewBox="0 0 385 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="27.0081696%" x2="50%" y2="118.729673%" id="linearGradient-1">
+            <stop stop-color="#F0953A" offset="0%"></stop>
+            <stop stop-color="#F0953A" stop-opacity="0.27" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="wind">
+                <path d="M385,32.0743873 C356.074369,11.2161291 330.006114,0.787 306.795234,0.787 C252.324023,0.787 224.162695,30.233 199.31625,56.213 C175.819219,80.781 155.526328,102 113.199844,102 C84.984375,102 47.2512565,78.6914624 0.000488281249,32.0743873 L0.000488281249,58.592716 L0.000488281249,77.8279519 C39.1547721,120.609317 76.8878906,142 113.199844,142 C167.671055,142 195.832383,112.554 220.678828,86.574 C244.175859,62.006 264.46875,40.787 306.795234,40.787 C331.80356,40.787 357.871815,53.133984 385,77.8279519 L385,32.0743873 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
